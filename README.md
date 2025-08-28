@@ -54,7 +54,7 @@ Under the following conditions:
 - 🚫 This software is provided **“as is”**, without any warranty of any kind.  
 - 🛠️ The authors are **not liable** for any damages or issues caused by using the code.  
 
-👉 For full details, please check the [LICENSE](https://github.com/abhijeetkhade1/HTML-Projects/blob/main/LICENSE) file.  
+👉 For full details, please check the [LICENSE](https://github.com/abhijeetkhade1/HTML-CSS-Projects/blob/main/LICENSE) file.  
 
 © 2025 Abhijeet Khade. All rights reserved.
 
